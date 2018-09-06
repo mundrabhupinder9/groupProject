@@ -30,11 +30,12 @@
 
 1892746 jaykumar :keep clam and cool 1893407 Jasil Jose : Great things in business are never done by one person. They're done by a team of people.
 
-<<<<<<< HEAD
+
 1893410 paul sabu : everything goes all right
-=======
+
 1892746 jaykumar :keep clam and cool
 1892720: Harsh: live like there is no tomorrow
 
->>>>>>> 35452b7b7f42582a600f707c0e028f6fc8dda005
+1893558: Chinna Reddy : Follow your heart
+
 
