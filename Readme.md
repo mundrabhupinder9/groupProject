@@ -10,4 +10,5 @@
 1892903 Ravi: Think Big
 
 1893174 Hardik: Keep kindness
+1893073 sai kishore: The heart,like the stomach, wants a varied diet.
 
